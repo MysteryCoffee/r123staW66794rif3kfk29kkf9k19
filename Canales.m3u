@@ -39,3 +39,5 @@ https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:60,CGTN en Español
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Undefined",KBS Life (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
